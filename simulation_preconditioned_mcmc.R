@@ -40,7 +40,7 @@
 # regression models.
 ###############################################################################
 
-# generate covariate data and ¦Â values
+# generate covariate data and true coefficient values
 set.seed(5623)
 
 n <- 150 # number of observations
